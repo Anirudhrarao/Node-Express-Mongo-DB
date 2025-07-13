@@ -1,0 +1,29 @@
+# Node modules (installed packages)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Optional: coverage reports
+coverage/
+
+# Optional: local database files
+*.sqlite
+*.db
